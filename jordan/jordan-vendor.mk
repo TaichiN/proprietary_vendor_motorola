@@ -196,3 +196,5 @@ PRODUCT_COPY_FILES += \
 #extra
 PRODUCT_COPY_FILES += \
 	vendor/motorola/jordan/media/Moto.ogg:system/media/audio/ringtones/Moto.ogg
+
+#the end
